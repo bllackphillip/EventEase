@@ -1,0 +1,23 @@
+{
+  "name": "eventease",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "express-session-better-sqlite3": "^1.2.1",
+    "git": "^0.1.5",
+    "helmet": "^8.1.0",
+    "leaflet": "^1.9.4"
+  }
+}
